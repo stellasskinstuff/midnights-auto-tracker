@@ -18,7 +18,7 @@ TrackParticipatedThreads({
    ignoreForumIds: ['11', '31', '32', '38', '40', '39', '42'],
 
    altForumNames: ['Communications'],
-   altForumIds: ['10', '26', '30'],
+   altForumIds: ['10', '26', '30', '109'],
    altSectionTitle: "Texts and Calls",
 
 archiveForumNames: ['Archives'],
