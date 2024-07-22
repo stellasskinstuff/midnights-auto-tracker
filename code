@@ -1,0 +1,36 @@
+[dohtml]
+<link href="https://files.jcink.net/uploads2/stellascodingstuff/midnights_auto_tracker_8.css" rel="stylesheet">
+<script src="https://files.jcink.net/uploads2/fizzyelf/sharedresources/autoTrackerPostTemplate.js"></script>
+
+<center>
+<div id="MEMBERGROUP">
+<div class="BGhor">
+<div class="BG2">
+<div class="name">CHAR NAME'S tracker</div>
+<div class="BG3">
+<div style="text-align: justify;">
+<script>
+TrackParticipatedThreads({
+   characterName: "USERNAME",
+
+   includeCategoryIds: ['2', '4', '5', '6'],
+    includeForumIds: ['76'],
+   ignoreForumIds: ['11', '31', '32', '38', '40', '39', '42'],
+
+   altForumNames: ['Communications'],
+   altForumIds: ['10', '26', '30'],
+   altSectionTitle: "Texts and Calls",
+
+archiveForumNames: ['Archives'],
+archiveForumIds: ['41', '43',],
+lockedMacroIdentifier: ".locked",
+
+floodControl: 5,
+ });
+</script>
+
+</div>
+</div>
+</div>
+</center>
+[/dohtml]
