@@ -1,12 +1,12 @@
 [dohtml]
-<link href="https://files.jcink.net/uploads2/stellascodingstuff/midnights_auto_tracker_8.css" rel="stylesheet">
+<link href="https://files.jcink.net/uploads2/stellascodingstuff/midnights_auto_tracker_10.css" rel="stylesheet">
 <script src="https://files.jcink.net/uploads2/fizzyelf/sharedresources/autoTrackerPostTemplate.js"></script>
 
 <center>
 <div id="MEMBERGROUP">
-<div class="BGhor">
+<div class="BG1">
 <div class="BG2">
-<div class="name">CHAR NAME'S tracker</div>
+<div class="name"> NAME's tracker</div>
 <div class="BG3">
 <div style="text-align: justify;">
 <script>
